@@ -4,7 +4,7 @@ Learning how to use Flutter by making a useless app to interface with GitHub's A
 
 ## Getting Started
 
-This stuff is useless to running the project, and only keep here to make it look like actual work has been down
+This stuff is useless to running the project, and only kept here to make it look like actual work has been done.
 
 This project is a starting point for a Flutter application.
 
