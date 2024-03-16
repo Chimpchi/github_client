@@ -1,8 +1,10 @@
-# github_client
+# GitHub Client Toolkit
 
-A new Flutter project.
+Learning how to use Flutter by making a useless app to interface with GitHub's API.
 
 ## Getting Started
+
+This stuff is useless to running the project, and only keep here to make it look like actual work has been down
 
 This project is a starting point for a Flutter application.
 
